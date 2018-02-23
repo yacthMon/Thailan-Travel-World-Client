@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Effect_Attack
+  - Monster
+  - NPC
+  - MonsterOffset
+  - Block_Monster
+  - ItemDrop
+  - Warp_Portal
+  - Popup_Window
+  - Online_Player
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Monster
+  - OnlinePlayer
+  - BlockMonster
+  - Item
+  - Background
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 287661151
+    locked: 0
+  - name: Place
+    uniqueID: 1179809193
+    locked: 0
+  - name: Object
+    uniqueID: 2180613257
+    locked: 0
+  - name: OnlinePlayer
+    uniqueID: 1721305245
+    locked: 0
+  - name: Player
+    uniqueID: 188280913
+    locked: 0
+  - name: NPC
+    uniqueID: 4031987601
+    locked: 0
+  - name: Monster
+    uniqueID: 1605049293
+    locked: 0
+  - name: Overlay_player
+    uniqueID: 1021672941
+    locked: 0
+  - name: Water
+    uniqueID: 4100946991
+    locked: 0
+  - name: seaport
+    uniqueID: 4199100569
+    locked: 0
+  - name: Item
+    uniqueID: 3090311115
+    locked: 0
+  - name: Effect
+    uniqueID: 530281549
+    locked: 0
+  - name: UI
+    uniqueID: 2346247521
+    locked: 0

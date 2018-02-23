@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ad7081f8636a9db4bba947eeeb092c2b
+timeCreated: 1492400718
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: RaiNgan
+  fontNames:
+  - RaiNgan
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
